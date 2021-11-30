@@ -1,0 +1,15 @@
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\bin\Debug\net5.0\AirLineModelClassLibrary.deps.json
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\bin\Debug\net5.0\AirLineModelClassLibrary.runtimeconfig.json
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\bin\Debug\net5.0\AirLineModelClassLibrary.runtimeconfig.dev.json
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\bin\Debug\net5.0\AirLineModelClassLibrary.dll
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\bin\Debug\net5.0\ref\AirLineModelClassLibrary.dll
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\bin\Debug\net5.0\AirLineModelClassLibrary.pdb
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\AirLineModelClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\AirLineModelClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\AirLineModelClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\AirLineModelClassLibrary.AssemblyInfo.cs
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\AirLineModelClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\AirLineModelClassLibrary.dll
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\ref\AirLineModelClassLibrary.dll
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\AirLineModelClassLibrary.pdb
+C:\Users\Eigenaar\Airlinemodel\AirLineModelClassLibrary\obj\Debug\net5.0\AirLineModelClassLibrary.genruntimeconfig.cache
